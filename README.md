@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/roll1226/roll1226/output/github-contribution-grid-snake.svg" />
+</div>
+
+<div align="center">
   <img src="./logo_media/IamProgrammer!.png" width="540" />
 </div>
 
