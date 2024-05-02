@@ -6,6 +6,8 @@
   <img src="./logo_media/IamProgrammer!.png" width="540" />
 </div>
 
+> logo designed by [SAWARATSUKI](https://github.com/SAWARATSUKI/ServiceLogos)
+
 ## My Learning Skills (Updated regularly)
 
 <div>
