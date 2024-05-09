@@ -6,7 +6,7 @@
   <img src="./logo_media/IamProgrammer!.png" width="540" />
 </div>
 
-> logo designed by [SAWARATSUKI](https://github.com/SAWARATSUKI/ServiceLogos)
+> logo designed by [SAWARATSUKI](https://github.com/SAWARATSUKI/KawaiiLogos)
 
 ## My Learning Skills (Updated regularly)
 
@@ -27,7 +27,7 @@
   <img src="./logo_media/Figma.png" width="200" />
 </div>
 
-> logo designed by [SAWARATSUKI](https://github.com/SAWARATSUKI/ServiceLogos)
+> logo designed by [SAWARATSUKI](https://github.com/SAWARATSUKI/KawaiiLogos)
 
 ## My Status
 
