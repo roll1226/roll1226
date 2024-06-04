@@ -32,9 +32,16 @@
 ## My Status
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/ECHQQDP" target="_blank" rel="noopener noreferrer"><img alt="ECHQQDP's scores on LAPRAS are as follows: Engineering: 3.51 out of 5.0, Business: 3.36 out of 5.0, Influence: 3.06 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.51&b=3.36&i=3.06&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="400" ></a>  
+<p ><a href="https://lapras.com/public/ECHQQDP" target="_blank" rel="noopener noreferrer"><img alt="ECHQQDP's scores on LAPRAS are as follows: Engineering: 3.51 out of 5.0, Business: 3.36 out of 5.0, Influence: 3.06 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.51&b=3.36&i=3.06&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="400" ></a> 
+<br />
 Last Updated on 6/4/2024, 11:24:44 AM</p>
 <!--END_SECTION:lapras-card-->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roll1226&show_icons=true&theme=tokyonight)
+
+[![](https://raw.githubusercontent.com/roll1226/roll1226/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/roll1226/roll1226/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/roll1226/roll1226/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/roll1226/roll1226/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/roll1226/roll1226/master/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=roll1226&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
