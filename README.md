@@ -31,6 +31,9 @@
 
 ## My Status
 
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roll1226&show_icons=true&theme=tokyonight)
 
 [![](https://raw.githubusercontent.com/roll1226/roll1226/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
