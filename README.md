@@ -32,8 +32,8 @@
 ## My Status
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/ECHQQDP" target="_blank" rel="noopener noreferrer"><img alt="ECHQQDP's scores on LAPRAS are as follows: Engineering: 3.57 out of 5.0, Business: 3.36 out of 5.0, Influence: 3.08 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.57&b=3.36&i=3.08&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="400" ></a>  
-Last Updated on 11/3/2024, 1:00:07 AM</p>
+<p ><a href="https://lapras.com/public/ECHQQDP" target="_blank" rel="noopener noreferrer"><img alt="ECHQQDP's scores on LAPRAS are as follows: Engineering: 3.56 out of 5.0, Business: 3.36 out of 5.0, Influence: 3.08 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.56&b=3.36&i=3.08&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="400" ></a>  
+Last Updated on 11/4/2024, 12:57:45 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roll1226&show_icons=true&theme=tokyonight)
