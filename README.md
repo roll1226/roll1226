@@ -29,6 +29,11 @@
 
 > logo designed by [SAWARATSUKI](https://github.com/SAWARATSUKI/KawaiiLogos)
 
+## AWS Certification
+<div>
+  <img src="./logo_media/aws-certified-cloud-practitioner.png" />
+</div>
+
 ## My Status
 
 <!--START_SECTION:lapras-card-->
