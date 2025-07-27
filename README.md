@@ -33,6 +33,7 @@
 <div>
   <img src="./logo_media/aws-certified-cloud-practitioner.png" width="130" />
   <img src="./logo_media/aws-certified-solutions-architect-associate.png" width="130" />
+  <img src="./logo_media/aws-certified-developer-associate.png" width="130" />
 </div>
 
 ## My Status
