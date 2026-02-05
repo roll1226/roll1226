@@ -49,7 +49,7 @@ Last Updated on 2/5/2026, 12:16:12 AM</p>
 [![](https://raw.githubusercontent.com/roll1226/roll1226/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/roll1226/roll1226/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/roll1226/roll1226/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/roll1226/roll1226/master/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![trophy](https://github-profile-trophy.vercel.app?username=roll1226&column=5&margin-w=8&margin-h=8&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app?username=roll1226&column=5&margin-w=8&margin-h=8&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- バッジ -->
 <p align="left">
