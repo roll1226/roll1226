@@ -43,7 +43,7 @@
 Last Updated on 2/5/2026, 12:16:12 AM</p>
 <!--END_SECTION:lapras-card-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roll1226&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats-fawn-nu-77.vercel.app/api?username=roll1226&show_icons=true&theme=tokyonight)
 
 [![](https://raw.githubusercontent.com/roll1226/roll1226/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/roll1226/roll1226/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/roll1226/roll1226/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
